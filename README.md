@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TajhMcDonald
+- 👋 Hi, I’m Tajh McDonald
 - 👀 I’m interested in Cybersecurity, Cloud Solutions and Security, Automation using Python and Machine Learning
 - 💞️ I’m looking to collaborate on iOS / Android Projects, Website development or other projects
 - 📫 How to reach me: via email at bigmccoding@icloud.com or via phone at 838-910-8236
